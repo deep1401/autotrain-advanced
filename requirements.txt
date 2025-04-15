@@ -28,7 +28,7 @@ trl==0.13.0
 tiktoken==0.8.0
 transformers==4.48.0
 accelerate==1.2.1
-bitsandbytes==0.45.0
+bitsandbytes==0.45.5
 # extras
 rouge_score==0.1.2
 py7zr==0.22.0
